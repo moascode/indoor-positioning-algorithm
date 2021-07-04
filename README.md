@@ -1,1 +1,6 @@
 # indoor-positioning-algorithm
+
+Indoor positioning system (IPS) allows an object to be located and tracked within an indoor environment. With the introduction of Internet of Things (IoT), the business interest in location-based application and services has also increased. Hence, the demand for accurate indoor localization services has become important. Until now, researches related to IPS are still being conducted with the objective to improve the performance of positioning techniques. Trilateration is one of the techniques available to determine the location of an object. This project resulted in improved Wi-Fi trilateration-based method for indoor positioning system. The improved model is based on the test results which were conducted by using Intel Galileo (Gen2) board as an access point. The signal blocking problem caused by obstacles existed inside the building is resolved by improving received signal strength measurement. The proposed model includes implementation of trilateration technique to determine the position of users and then using specific reference points to improve the positioning results. 
+
+# Published paper from this project
+https://ieeexplore.ieee.org/document/7808286
